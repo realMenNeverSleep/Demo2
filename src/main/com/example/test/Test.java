@@ -8,5 +8,6 @@ public class Test {
         applicationContext.refresh();
         System.out.println(111);
         System.out.println(111);
+        System.out.println("branch - liaoen");
     }
 }
