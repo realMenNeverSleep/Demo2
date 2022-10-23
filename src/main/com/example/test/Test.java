@@ -9,5 +9,6 @@ public class Test {
         System.out.println(111);
         System.out.println(111);
         System.out.println("branch - liaoen");
+        System.out.println("冲突合并测试 -- 个人分支提交");
     }
 }
