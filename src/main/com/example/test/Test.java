@@ -12,5 +12,6 @@ public class Test {
         System.out.println("冲突合并测试 -- 主干分支提交");
         System.out.println("冲突合并测试 -- 个人分支提交");
         System.out.println("SSH commit");
+        System.out.println("SSH commit pull");
     }
 }
